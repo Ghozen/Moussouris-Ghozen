@@ -3,9 +3,9 @@
 
 ### 1. Compétences
 
-     - Certifié CCNA 200-301 [Ici]() 
-     - Certification encours NSE4
-     - Certification encours CEH
+     * Certifié CCNA 200-301 [Ici]( ) 
+     *Certification encours NSE4
+     * Certification encours CEH
 
        | Titre        |      Description                   |
        | ------------     | -----------------------------  |
