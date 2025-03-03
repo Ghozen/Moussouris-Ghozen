@@ -1,4 +1,15 @@
-# Moussouris-Ghozen
-## Hello i'm GHoze
+# Description
+## Hello i'm GHOZE
 
-je suis Etudiant informaticien à Illimi group. Adepte de la cybersecurité , j'ai saisi cette opportunité que illimigroup m'offre en me permettant de suivre leur formation en securité en informatique denommé Moussouris.
+### 1. Compétences
+
+     - Certifié CCNA 200-301 [Ici]() 
+     - Certification encours NSE4
+     - Certification encours CEH
+
+       | Titre        |      Description                   |
+       | --------     | --------------------               |
+       |Name          | KOUADIO                            |
+       |First Name    | Koffi Ghozerin                     |
+       |Country       | Côte d'Ivoire                      |
+       |Certification | CCNA 200-3001, IC3 DIGITAL LITERACY|    
