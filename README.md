@@ -15,4 +15,5 @@
 | Certification | CCNA 200-301 -  IC3|  
 --------------------------------------  
 ### 2. Outils  
- 
+  
+- '/home/g008/Images/Capture d’écran_2025-03-04_12-52-59.png' 
