@@ -7,11 +7,12 @@
  * Certification encours NSE4  
  * Certification encours CEH  
   
-|<div align="center">Titre</div> | <div align="center">Description</div> |  
-| --- | --- | --- |  
-| Name | KOUADIO |  
-| first Name | Koffi Ghozerin |  
-| Country | Côte d'ivoire |  
-| Certification | CCNA 200-301, IC3 |  
+|<div align="center">Titre</div> | <div align="center">Description</div>|  
+|---|----------  
+|Name | KOUADIO|  
+|first Name | Koffi Ghozerin|  
+| Country | Côte d'ivoire|  
+| Certification | CCNA 200-301 -  IC3|  
+--------------------------------------  
 ### 2. Outils  
  
