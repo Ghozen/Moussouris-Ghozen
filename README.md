@@ -15,4 +15,4 @@
 | Certification | CCNA 200-301 -  IC3|  
 --------------------------------------  
 ### 2. Outils  
-![image nmpa ](/home/g008/Images/)
+![image nmpa ](https://github.com/Ghozen/Moussouris-Ghozen/blob/main/nmap.png?raw=true)
