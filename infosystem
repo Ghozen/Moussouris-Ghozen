@@ -1,57 +1,61 @@
 #!/bin/bash
 # info system
 
-###########constante
-Title="kali Info System"
+#############constante
+
+Title="kali info system"
 jj="$(date +"%x %r %z")"
 mj="mise à jour $jj sur $USER"
 
 #########fonction
 
-info_user()
+info_syst()
 {
-	echo "fonction sur information utilisateur"
+	echo "Information sur le système "
+	uname -a
+	free -m
+	df -h
 }
 
 info_disk()
 {
-	echo "fonction sur information sur le disk"
+	echo " Information sur le disk "
+	lsblk
 }
 
 info_chemin()
 {
-	echo "fonction sur information sur les variables d'environnements"
+	echo "Information sur le chemin $PATH"
 }
 
 info_show_time()
 {
-	echo "fonction sur information concernant le temps"
+	echo " Information sur la date"
+	uptime
 }
-
-
 
 
 #########main
 
 cat <<_EOF_
- <html>
- <head>
-<title>$Title </title>
- </head>
+
+<html><head>
+<title>$Title</title>
+</head>
 <body>
 <h1>$Title</h1>
 
-<p> $mj </p>
+<p> $mj  </p>
 
-$(info_user)
-$(info_disk)
-$(info_chemin)
-$(info_show_time)
+<p> $(info_syst) </p>
 
+<P> $(info_disk) </p>
 
- </body>
+<p> $(info_chemin) </p>
+
+<p> $(info_show_time) </p>
+
+</body>
 </html>
+
 _EOF_
-
-
-
