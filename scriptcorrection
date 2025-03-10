@@ -1,4 +1,6 @@
-#!/bin/bash -x
+#!/bin/bash 
+### -x ### 
+##### on peut metrre <<set  -x>> au debut et à la fin <<set +x>> ###
 
 echo "#########################"
 echo " ## ./scriptcorrection ##"
@@ -8,7 +10,15 @@ repo_url=https://github.com/Ghozen/Moussouris-Ghozen.git
 ###############main
 
 echo -n "Entrer un message commit > "
-read commitmessage
+if read -t 30 commitmessage; then
+	echo " \nvous êtes rapide"
+else 
+	echo "vous êtes lent"
+	exit 0
+fi
+
+read -p "repo github username > " user
+echo " github username=$user "
 
 if [ -d .git ];then
 
